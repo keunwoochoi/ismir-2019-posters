@@ -15,7 +15,7 @@ Wenqin Chen; Jessica Keast; Jordan Moody; Corinne Moriarty; Felicia Villalobos; 
 Keunwoo Choi; Kyunghyun Cho
 > "DrummerNet is a drum transcriber trained in an unsupervised fashion. DrummerNet learns to transcribe by learning to reconstruct the audio with the transcription estimate. Unsupervised learning + a large dataset allow DrummerNet to be less-biased."
 
-![B-02 Poster](https://keunwoochoi.github.com/posters/B-02-Deep-Unsupervised-Drum-Transcription.png)
+![B-02 Poster](posters/B-02-Deep-Unsupervised-Drum-Transcription.png)
 
 
 
