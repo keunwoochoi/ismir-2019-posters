@@ -21,6 +21,7 @@ Add it by making a pull request!
 - commit, push
 - make sure it looks good on `readme.md` of your forked repo
 - make a pull request
+- DO NOT CHANGE OTHERS' POSTERS - WE DON'T NEED A MERGE CONFLICT HERE!
 
 ## Sessions
 [Session A](https://github.com/keunwoochoi/ismir-2019-posters#session-a), 
