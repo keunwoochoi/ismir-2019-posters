@@ -36,12 +36,6 @@ Add it by making a pull request!
 
 ## Session A
 
-### [A-00] (Anniversary paper) Data Usage in MIR: History & Future Recommendations | [paper](http://archives.ismir.net/ismir2019/paper/000001.pdf)
-
-Wenqin Chen; Jessica Keast; Jordan Moody; Corinne Moriarty; Felicia Villalobos; Virtue Winter; Xueqi Zhang; Xuanqi Lyu; Elizabeth Freeman; Jessie Wang; Sherry Cai; Katherine Kinnaird
-
-(poster image here with a *relative* link)
-
 ## Session B
 
 ### [B-02] Deep Unsupervised Drum Transcription | [paper](http://archives.ismir.net/ismir2019/paper/000020.pdf) | [code](https://github.com/keunwoochoi/DrummerNet)
