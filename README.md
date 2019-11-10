@@ -22,6 +22,17 @@ Add it by making a pull request!
 - make sure it looks good on `readme.md` of your forked repo
 - make a pull request
 
+## Sessions
+[Session A](https://github.com/keunwoochoi/ismir-2019-posters#session-a), 
+[Session B](https://github.com/keunwoochoi/ismir-2019-posters#session-b), 
+[Session C](https://github.com/keunwoochoi/ismir-2019-posters#session-c), 
+[Session D](https://github.com/keunwoochoi/ismir-2019-posters#session-d), 
+[Session E](https://github.com/keunwoochoi/ismir-2019-posters#session-e), 
+[Session F](https://github.com/keunwoochoi/ismir-2019-posters#session-f),
+[Session G](https://github.com/keunwoochoi/ismir-2019-posters#session-g),
+[Late-Breaking/Demo](https://github.com/keunwoochoi/ismir-2019-posters#late-breakingdemo)
+[MIREX](https://github.com/keunwoochoi/ismir-2019-posters#mirex)
+
 ## Session A
 
 ### [A-00] (Anniversary paper) Data Usage in MIR: History & Future Recommendations | [paper](http://archives.ismir.net/ismir2019/paper/000001.pdf)
