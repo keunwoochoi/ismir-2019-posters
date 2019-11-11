@@ -62,6 +62,11 @@ Add it by making a pull request!
 [Stephan Wells](); [Iris Yuping Ren](http://irisryp.me/); [Anja Volk](http://www.staff.science.uu.nl/~fleis102/)
 > "Musical patterns (repeated segments of music) are highly widespread in all varieties of music, and annotations of such patterns are valuable in many areas of music information retrieval. Unfortunately, there is a lack of expert annotations of musical patterns, and most annotation is done by hand. In this project, we introduce a novel software, ANOMIC, designed for users to intuitively annotate repeated musical segments, and we perform a user study which yields a large database of annotations done using the tool. We find that the tool’s reception was strongly positive and show that the annotations done with it reach high levels of inter-annotator agreement compared to traditional approaches."
 
+### [L-07] Improving Music Tagging from Audio with User-Track Interactions | [paper](http://archives.ismir.net/ismir2019/latebreaking/000007.pdf)
+
+[Andres Ferraro](https://github.com/andrebola); Jae Ho Jeon; Jisang Yoon; [Xavier Serra](https://www.upf.edu/web/xavier-serra); [Dmitry Bogdanov](https://dbogdanov.github.io/about/)
+> "We propose to improve the tagging of music by using audio and collaborative filtering information (user-track interactions). We use Matrix Factorization (MF) to obtain a representation of the tracks from the user-track interactions and map those representations to the tags predicted from audio. The preliminary results show that following this approach we can increase the tagging performance."
+
 ![L-10 Poster](posters/L-10-ANOMIC.png)
 
 ## MIREX
