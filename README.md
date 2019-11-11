@@ -52,9 +52,7 @@ Add it by making a pull request!
 
 ## Session E
 
-### [E-05] The Harmonix Set: Beats, Downbeats, and Functional Segment Annotations of Western Popular Music | [paper](http://archives.ismir.net/ismir2019/paper/000068.pdf) | [code](https://github.com/urinieto/harmonixset)
-
-[E-05 Poster](posters/E-05-TheHarmonixSet.pdf)
+### [E-05] The Harmonix Set: Beats, Downbeats, and Functional Segment Annotations of Western Popular Music, Nieto, O., McCallum, M., Davies., M., Robertson, A., Stark, A., Egozy, E. | [poster](posters/E-05-TheHarmonixSet.pdf) | [paper](http://archives.ismir.net/ismir2019/paper/000068.pdf) | [code](https://github.com/urinieto/harmonixset)
 
 ## Session F
 
