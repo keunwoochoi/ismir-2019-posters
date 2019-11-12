@@ -93,11 +93,20 @@ Add it by making a pull request!
 
 ![L-10 Poster](posters/L-10-ANOMIC.png)
 
+
+### [L-45] An Opensource Web-based Pattern Annotation Framework - PAF | [paper](http://archives.ismir.net/ismir2019/latebreaking/000045.pdf) | [code](https://bitbucket.org/ul-fri-lgm/patternannotationframework/src)
+
+[Matevž Pesek](); [Darian Tomašević](); [Iris Yuping Ren](http://irisryp.me/); [Matija Marolt]()
+> "The Pattern Annotation Framework (PAF) tool collects the data about the annotator and the annotation process, to enable an analysis of relations between the user's experience/background and the annotations. The tool tracks the user's actions, such as the start and end time of an individual annotation and its changes, midi player actions and other. By open-sourcing the tool, we hope to aid other researchers in the MIR field dealing with pattern-related data gathering."
+
+![L-45 Poster](posters/L-45-PAF.png)
+
 ### [L-49] Linking and Visualising Performance Data and Semantic Music Encodings in Real-Time | [paper](http://archives.ismir.net/ismir2019/latebreaking/000049.pdf) | [code](https://github.com/trompamusic/clara) | [web](https://trompa.mdw.ac.at)
 
 [David M. Weigl](https://iwk.mdw.ac.at/david-weigl); [Carlos Cancino-Chacón](http://carloscancinochacon.com/); [Martin Bonev](); [Werner Goebl](https://www.mdw.ac.at/iwk/werner-goebl/)
 > "We present CLARA (Companion for Long-term Analyses of Rehearsal Attempts), a visualisation interface for real-time performance-to-score alignment based on the MELD (Music Encoding and Linked Data) framework for semantic digital notation, employing MAPS (Matcher for Alignment of Performance and Score), an HMM-based polyphonic score-following system for symbolic (MIDI) piano performances."
 
 ![L-49 Poster](posters/L-49-Performance-Data-Semantic-Music-Encodings.png)
+
 
 ## MIREX
