@@ -63,6 +63,13 @@ Add it by making a pull request!
 
 ## Session G
 
+### [G-03] Adaptive Time–Frequency Scattering for Periodic Modulation Recognition in Music Signals | [paper](http://archives.ismir.net/ismir2019/paper/000099.pdf) | [dataset](https://zenodo.org/record/3250223)
+
+[Changhong Wang](https://changhongw.github.io/); Emmanouil Benetos; Vincent Lostanlen; Elaine Chew
+> "Scattering transform provides a versatile and compact representation for analysing playing techniques."
+
+![G-03 Poster](posters/G-03.png)
+
 ## Late-Breaking/Demo
 
 ### [L-06] Tools for Semi-Automatic Bounding Box Annotation of Musical Measures in Sheet Music | [paper](http://archives.ismir.net/ismir2019/latebreaking/000006.pdf) | [web](https://www.audiolabs-erlangen.de/resources/MIR/2019-ISMIR-LBD-Measures)
@@ -71,6 +78,13 @@ Add it by making a pull request!
 > "In score following, one main goal is to highlight measure positions in sheet music synchronously to audio playback. Such applications require alignments between sheet music and audio representations. Often, such alignments can be computed automatically in the case that the sheet music representations are given in some symbolically encoded music format. However, sheet music is often available only in the form of digitized scans. In this case, the automated computation of accurate alignments poses still many challenges [1]. In this contribution, we present various semi-automatic tools for solving the subtask of determining bounding boxes (given in pixels) of measure positions in digital scans of sheet music—a task that is extremely tedious when being done manually."
 
 ![L-10 Poster](posters/L-06-Measure-Boundaries.png)
+
+### [L-07] Improving Music Tagging from Audio with User-Track Interactions | [paper](http://archives.ismir.net/ismir2019/latebreaking/000007.pdf)
+
+[Andres Ferraro](https://github.com/andrebola); [Jae Ho Jeon](https://www.linkedin.com/in/jae-ho-jeon-036927126); [Jisang Yoon](https://github.com/js1010); [Xavier Serra](https://www.upf.edu/web/xavier-serra); [Dmitry Bogdanov](https://dbogdanov.github.io/about/)
+> "We propose to improve the tagging of music by using audio and collaborative filtering information (user-track interactions). We use Matrix Factorization (MF) to obtain a representation of the tracks from the user-track interactions and map those representations to the tags predicted from audio. The preliminary results show that following this approach we can increase the tagging performance."
+
+![L-07 Poster](posters/L-07-improve-tagging.png)
 
 ### [L-10] Creating a Tool for Faciltiating and Researching Human Annotation of Musical Patterns | [paper](http://archives.ismir.net/ismir2019/latebreaking/000010.pdf) | [code](https://github.com/StephanWells/ANOMIC)
 
