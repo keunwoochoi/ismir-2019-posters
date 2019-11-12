@@ -38,7 +38,7 @@ Add it by making a pull request!
 
 ### [A-09] 20 Years of Playlists: A Statistical Analysis on Popularity and Diversity | [paper](http://archives.ismir.net/ismir2019/paper/000013.pdf) | [code](https://github.com/MTG/playlists-stat-analysis)
 
-[Lorenzo Porcaro](https://lorenzoporcaro.wordpress.com/); [Emilia Gomez](https://emiliagomez.com/)
+[Lorenzo Porcaro](https://lorenzoporcaro.wordpress.com/); [Emilia Gómez](https://emiliagomez.com/)
 > "We find extremely valuable to compare playlist datasets generated in different contexts, as it allows to understand how changes in the listening experience are affecting playlist creation strategies."
 
 [A-09 Poster](https://drive.google.com/file/d/13v5sHHzAKh-lMWRyOgwmwfj87AV8lAFS/view)
