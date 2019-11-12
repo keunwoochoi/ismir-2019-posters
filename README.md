@@ -10,11 +10,11 @@ Add it by making a pull request!
   - update your repo's `readme.md` with the right format (you can also directly edit it on webbrowser)
     ```
     ### [poster session code] TITLE | LINK_TO_PAPER | LINK_TO_CODE | LINK_TO_WHATEVER
-    
+
     AUTHOR NAMES
-    
+
     > "SHORT DESCRIPTION THAT YOU USED IN THE CONFERENCE WEBSITE"
-    
+
     POSTER IMAGE HERE WITH A RELATIVE LINK, i.e.,
     ![POSTER SESSION CODE](posters/POSTER_SESSION_CODE-YOUR_POSTER_FILE_NAME.png)
     ```
@@ -24,11 +24,11 @@ Add it by making a pull request!
 - DO NOT CHANGE OTHERS' POSTERS - WE DON'T NEED A MERGE CONFLICT HERE!
 
 ## Sessions
-[Session A](https://github.com/keunwoochoi/ismir-2019-posters#session-a), 
-[Session B](https://github.com/keunwoochoi/ismir-2019-posters#session-b), 
-[Session C](https://github.com/keunwoochoi/ismir-2019-posters#session-c), 
-[Session D](https://github.com/keunwoochoi/ismir-2019-posters#session-d), 
-[Session E](https://github.com/keunwoochoi/ismir-2019-posters#session-e), 
+[Session A](https://github.com/keunwoochoi/ismir-2019-posters#session-a),
+[Session B](https://github.com/keunwoochoi/ismir-2019-posters#session-b),
+[Session C](https://github.com/keunwoochoi/ismir-2019-posters#session-c),
+[Session D](https://github.com/keunwoochoi/ismir-2019-posters#session-d),
+[Session E](https://github.com/keunwoochoi/ismir-2019-posters#session-e),
 [Session F](https://github.com/keunwoochoi/ismir-2019-posters#session-f),
 [Session G](https://github.com/keunwoochoi/ismir-2019-posters#session-g),
 [Late-Breaking/Demo](https://github.com/keunwoochoi/ismir-2019-posters#late-breakingdemo)
@@ -52,11 +52,40 @@ Add it by making a pull request!
 
 ## Session E
 
+### [E-06] FMP Notebooks: Educational Material for Teaching and Learning Fundamentals of Music Processing | [paper](http://archives.ismir.net/ismir2019/paper/000069.pdf) | [web](https://www.audiolabs-erlangen.de/FMP)
+
+[Meinard Müller](https://www.audiolabs-erlangen.de/fau/professor/mueller); [Frank Zalkow](https://www.audiolabs-erlangen.de/fau/assistant/zalkow)
+> "The FMP notebooks include open-source Python code, Jupyter notebooks, detailed explanations, as well as numerous audio and music examples for teaching and learning MIR and audio signal processing."
+
+![E-06 Poster](posters/B-06-FMP.png)
+
 ## Session F
 
 ## Session G
 
+### [G-03] Adaptive Time–Frequency Scattering for Periodic Modulation Recognition in Music Signals | [paper](http://archives.ismir.net/ismir2019/paper/000099.pdf) | [dataset](https://zenodo.org/record/3250223)
+
+[Changhong Wang](https://changhongw.github.io/); Emmanouil Benetos; Vincent Lostanlen; Elaine Chew
+> "Scattering transform provides a versatile and compact representation for analysing playing techniques."
+
+![G-03 Poster](posters/G-03.png)
+
 ## Late-Breaking/Demo
+
+### [L-06] Tools for Semi-Automatic Bounding Box Annotation of Musical Measures in Sheet Music | [paper](http://archives.ismir.net/ismir2019/latebreaking/000006.pdf) | [web](https://www.audiolabs-erlangen.de/resources/MIR/2019-ISMIR-LBD-Measures)
+
+[Frank Zalkow](https://www.audiolabs-erlangen.de/fau/assistant/zalkow); [Angel Villar Corrales](); [TJ Tsai](http://pages.hmc.edu/ttsai/); [Vlora Arifi-Müller](https://www.audiolabs-erlangen.de/fau/assistant/arifi-mueller); [Meinard Müller](https://www.audiolabs-erlangen.de/fau/professor/mueller);
+> "In score following, one main goal is to highlight measure positions in sheet music synchronously to audio playback. Such applications require alignments between sheet music and audio representations. Often, such alignments can be computed automatically in the case that the sheet music representations are given in some symbolically encoded music format. However, sheet music is often available only in the form of digitized scans. In this case, the automated computation of accurate alignments poses still many challenges [1]. In this contribution, we present various semi-automatic tools for solving the subtask of determining bounding boxes (given in pixels) of measure positions in digital scans of sheet music—a task that is extremely tedious when being done manually."
+
+![L-10 Poster](posters/L-06-Measure-Boundaries.png)
+
+### [L-07] Improving Music Tagging from Audio with User-Track Interactions | [paper](http://archives.ismir.net/ismir2019/latebreaking/000007.pdf)
+
+[Andres Ferraro](https://github.com/andrebola); [Jae Ho Jeon](https://www.linkedin.com/in/jae-ho-jeon-036927126); [Jisang Yoon](https://github.com/js1010); [Xavier Serra](https://www.upf.edu/web/xavier-serra); [Dmitry Bogdanov](https://dbogdanov.github.io/about/)
+> "We propose to improve the tagging of music by using audio and collaborative filtering information (user-track interactions). We use Matrix Factorization (MF) to obtain a representation of the tracks from the user-track interactions and map those representations to the tags predicted from audio. The preliminary results show that following this approach we can increase the tagging performance."
+
+![L-07 Poster](posters/L-07-improve-tagging.png)
+
 ### [L-10] Creating a Tool for Faciltiating and Researching Human Annotation of Musical Patterns | [paper](http://archives.ismir.net/ismir2019/latebreaking/000010.pdf) | [code](https://github.com/StephanWells/ANOMIC)
 
 [Stephan Wells](); [Iris Yuping Ren](http://irisryp.me/); [Anja Volk](http://www.staff.science.uu.nl/~fleis102/)
@@ -64,11 +93,20 @@ Add it by making a pull request!
 
 ![L-10 Poster](posters/L-10-ANOMIC.png)
 
+
 ### [L-45] An Opensource Web-based Pattern Annotation Framework - PAF | [paper](http://archives.ismir.net/ismir2019/latebreaking/000045.pdf) | [code](https://bitbucket.org/ul-fri-lgm/patternannotationframework/src)
 
 [Matevž Pesek](); [Darian Tomašević](); [Iris Yuping Ren](http://irisryp.me/); [Matija Marolt]()
 > "The Pattern Annotation Framework (PAF) tool collects the data about the annotator and the annotation process, to enable an analysis of relations between the user's experience/background and the annotations. The tool tracks the user's actions, such as the start and end time of an individual annotation and its changes, midi player actions and other. By open-sourcing the tool, we hope to aid other researchers in the MIR field dealing with pattern-related data gathering."
 
 ![L-45 Poster](posters/L-45-PAF.png)
+
+### [L-49] Linking and Visualising Performance Data and Semantic Music Encodings in Real-Time | [paper](http://archives.ismir.net/ismir2019/latebreaking/000049.pdf) | [code](https://github.com/trompamusic/clara) | [web](https://trompa.mdw.ac.at)
+
+[David M. Weigl](https://iwk.mdw.ac.at/david-weigl); [Carlos Cancino-Chacón](http://carloscancinochacon.com/); [Martin Bonev](); [Werner Goebl](https://www.mdw.ac.at/iwk/werner-goebl/)
+> "We present CLARA (Companion for Long-term Analyses of Rehearsal Attempts), a visualisation interface for real-time performance-to-score alignment based on the MELD (Music Encoding and Linked Data) framework for semantic digital notation, employing MAPS (Matcher for Alignment of Performance and Score), an HMM-based polyphonic score-following system for symbolic (MIDI) piano performances."
+
+![L-49 Poster](posters/L-49-Performance-Data-Semantic-Music-Encodings.png)
+
 
 ## MIREX
