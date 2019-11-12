@@ -67,7 +67,7 @@ Add it by making a pull request!
 
 ### [A-09] A Dataset of Rhytmic Pattern Reproductions and Baseline Automatic Assessment System | [paper](http://archives.ismir.net/ismir2019/paper/000052.pdf) | [code](https://github.com/MTG/mast-rhythm-analysis)
 
-Felipe Vieira, Baris Bozkurt, Xavier Serra, Nazareno Andrade, Ozan Baysal
+[Felipe Vieira](https://www.linkedin.com/in/felipe29vieira), Baris Bozkurt, Xavier Serra, Nazareno Andrade, Ozan Baysal
 > "This present work is an effort to address the shortage of music datasets designed for rhythmic assessment. A new dataset and baseline rhythmic assessment system are provided in order to support comparative studies about rhythmic assessment."
 
 ![B-09 Poster](posters/D-04-A-Dataset-of-Rhytmic-Pattern-Reproductions-and-Baseline-Automatic-Assessment-System.png)
