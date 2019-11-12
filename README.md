@@ -51,7 +51,7 @@ Add it by making a pull request!
 
 > "Explainable predictions of emotion from music can be obtained by introducing an intermediate representation of mid-level perceptual features in the predictor deep neural network."
 
-![B-09 Poster]('posters/B-09-Towards Explainable Emotion Recognition in Music The Route via Mid-level Features.png')
+![B-09 Poster](posters/B-09-Towards-Explainable-Emotion-Recognition-in-Music.png)
 
 
 ## Session C
