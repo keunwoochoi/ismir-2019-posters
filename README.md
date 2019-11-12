@@ -45,6 +45,14 @@ Add it by making a pull request!
 
 ![B-02 Poster](posters/B-02-Deep-Unsupervised-Drum-Transcription.png)
 
+### [B-09] Towards Explainable Emotion Recognition in Music: The Route via Mid-level Features | [paper](http://archives.ismir.net/ismir2019/paper/000027.pdf) |  [demo](https://shreyanc.github.io/ismir_example.html)
+
+[Shreyan Chowdhury](https://shreyanc.github.io), Andreu Vall Portabella, Verena Haunschmid, Gerhard Widmer
+
+> "Explainable predictions of emotion from music can be obtained by introducing an intermediate representation of mid-level perceptual features in the predictor deep neural network."
+
+![B-09 Poster](posters/B-09-Towards Explainable Emotion Recognition in Music The Route via Mid-level Features.png)
+
 
 ## Session C
 
