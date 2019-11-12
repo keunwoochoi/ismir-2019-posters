@@ -41,7 +41,7 @@ Add it by making a pull request!
 [Lorenzo Porcaro](https://lorenzoporcaro.wordpress.com/); [Emilia Gomez](https://emiliagomez.com/)
 > "We find extremely valuable to compare playlist datasets generated in different contexts, as it allows to understand how changes in the listening experience are affecting playlist creation strategies."
 
-![A-09 Poster](https://drive.google.com/file/d/13v5sHHzAKh-lMWRyOgwmwfj87AV8lAFS/view)
+[A-09 Poster](https://drive.google.com/file/d/13v5sHHzAKh-lMWRyOgwmwfj87AV8lAFS/view)
 
 ## Session B
 
