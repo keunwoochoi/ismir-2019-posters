@@ -98,6 +98,14 @@ Add it by making a pull request!
 
 ## Session F
 
+### [F-13] Learning Disentangled Representations of Timbre and Pitch for Musical Instrument Sounds Using Gaussian Mixture Variational Autoencoders | [paper](http://archives.ismir.net/ismir2019/paper/000091.pdf) | [demo](https://ismir19-217.github.io/sup-material/ismir19-217-sup-material.html)
+
+[Yin-Jyun Luo](https://yjlolo.github.io/al-folio/); Kat Agres; Dorien Herremans
+
+> "We disentangle pitch and timbre of musical instrument sounds by learning separate interpretable latent spaces using Gaussian mixture variational autoencoders. The model is verified by controllable sound synthesis and many-to-many timbre transfer."
+
+![F-13](posters/F-13-instrument_GMVAE.png)
+
 ## Session G
 
 ### [G-03] Adaptive Time–Frequency Scattering for Periodic Modulation Recognition in Music Signals | [paper](http://archives.ismir.net/ismir2019/paper/000099.pdf) | [dataset](https://zenodo.org/record/3250223)
