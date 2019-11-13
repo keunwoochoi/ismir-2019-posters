@@ -36,6 +36,12 @@ Add it by making a pull request!
 
 ## Session A
 
+### [A-01] Zero-shot Learning for Audio-based Music Classification and Tagging | [paper](http://archives.ismir.net/ismir2019/paper/000005.pdf) | [code](https://github.com/kunimi00/ZSL_music_tagging)
+[Jeong Choi](https://jeongchoi.home.blog/); [Jongpil Lee](https://jongpillee.github.io/); Jiyoung Park; [Juhan Nam](http://mac.kaist.ac.kr/~juhan/)
+> "Investigated the paradigm of zero-shot learning applied to music domain. Organized 2 side information setups for music calssification task. Proposed a data split scheme and associated evaluation settings for the multi-label zero-shot learning."
+
+![A-01 Poster](posters/A-01-Zero-shot-Learning.png)
+
 ### [A-09] 20 Years of Playlists: A Statistical Analysis on Popularity and Diversity | [paper](http://archives.ismir.net/ismir2019/paper/000013.pdf) | [code](https://github.com/MTG/playlists-stat-analysis)
 
 [Lorenzo Porcaro](https://lorenzoporcaro.wordpress.com/); [Emilia Gómez](https://emiliagomez.com/)
@@ -62,6 +68,7 @@ Add it by making a pull request!
 
 
 ## Session C
+
 
 ## Session D
 
@@ -91,6 +98,16 @@ Add it by making a pull request!
 > "Scattering transform provides a versatile and compact representation for analysing playing techniques."
 
 ![G-03 Poster](posters/G-03.png)
+
+
+### [G-16] VirtuosoNet: A Hierarchical RNN-based System for Modeling Expressive Piano Performance  | [paper] (http://archives.ismir.net/ismir2019/paper/000112.pdf) | [code](https://github.com/jdasam/virtuosoNet)
+Dasaem Jeong; Taegyun Kwon; Yoojin Kim; Kyogu Lee; Juhan Nam
+
+> "We present an RNN-based model that reads MusicXML and generates human-like performance MIDI. The model employs a hierarchical approach by using attention network and an independent measure-level estimation module. We share our code and dataset."
+
+![G-16 Poster](posters/G-16-VirtuosoNet.png)
+
+
 
 ## Late-Breaking/Demo
 
