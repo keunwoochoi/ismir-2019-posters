@@ -36,6 +36,27 @@ Add it by making a pull request!
 
 ## Session A
 
+### [A-01] Zero-shot Learning for Audio-based Music Classification and Tagging | [paper](http://archives.ismir.net/ismir2019/paper/000005.pdf) | [code](https://github.com/kunimi00/ZSL_music_tagging)
+[Jeong Choi](https://jeongchoi.home.blog/); [Jongpil Lee](https://jongpillee.github.io/); Jiyoung Park; [Juhan Nam](http://mac.kaist.ac.kr/~juhan/)
+> "Investigated the paradigm of zero-shot learning applied to music domain. Organized 2 side information setups for music calssification task. Proposed a data split scheme and associated evaluation settings for the multi-label zero-shot learning."
+
+![A-01 Poster](posters/A-01-Zero-shot-Learning.png)
+
+### [A-09] 20 Years of Playlists: A Statistical Analysis on Popularity and Diversity | [paper](http://archives.ismir.net/ismir2019/paper/000013.pdf) | [code](https://github.com/MTG/playlists-stat-analysis)
+
+[Lorenzo Porcaro](https://lorenzoporcaro.wordpress.com/); [Emilia Gómez](https://emiliagomez.com/)
+> "We find extremely valuable to compare playlist datasets generated in different contexts, as it allows to understand how changes in the listening experience are affecting playlist creation strategies."
+
+![A-09 Poster](posters/A-09-20-Years-of-Playlists.png)
+
+
+### [A-13] Conditioned-U-Net: Introducing a Control Mechanism in the U-Net for Multiple Source Separations | [paper](http://archives.ismir.net/ismir2019/paper/000017.pdf) | [code](https://github.com/gabolsgabs/cunet)
+
+[Gabriel Meseguer-Brocal](https://github.com/gabolsgabs/); [Geoffroy Peeters](https://perso.telecom-paristech.fr/gpeeters/)
+> "In this paper, we apply conditioning learning to source separation and introduce a control mechanism to the standard U-Net architecture. The control mechanism allows multiple instrument separations with just one model without losing performance."
+
+![A-09 Poster](posters/A-13-Conditioned-U-Net;-Introducing-a-Control-Mechanism-in-the-U-Net-for-Multiple-Source-Separations.png)
+
 ## Session B
 
 ### [B-02] Deep Unsupervised Drum Transcription | [paper](http://archives.ismir.net/ismir2019/paper/000020.pdf) | [code](https://github.com/keunwoochoi/DrummerNet)
@@ -56,7 +77,15 @@ Add it by making a pull request!
 
 ## Session C
 
+
 ## Session D
+
+### [D-04] A Dataset of Rhytmic Pattern Reproductions and Baseline Automatic Assessment System | [paper](http://archives.ismir.net/ismir2019/paper/000052.pdf) | [code](https://github.com/MTG/mast-rhythm-analysis) | [MAST rhythm dataset](https://zenodo.org/record/2620357) | [re-annotated dataset](https://zenodo.org/record/2619499)
+
+[Felipe Falcão](https://www.linkedin.com/in/felipe29vieira), Baris Bozkurt, Xavier Serra, Nazareno Andrade, Ozan Baysal
+> "This present work is an effort to address the shortage of music datasets designed for rhythmic assessment. A new dataset and baseline rhythmic assessment system are provided in order to support comparative studies about rhythmic assessment."
+
+![D-04 Poster](posters/D-04-A-Dataset-of-Rhytmic-Pattern-Reproductions-and-Baseline-Automatic-Assessment-System.png)
 
 ## Session E
 
@@ -69,6 +98,14 @@ Add it by making a pull request!
 
 ## Session F
 
+### [F-13] Learning Disentangled Representations of Timbre and Pitch for Musical Instrument Sounds Using Gaussian Mixture Variational Autoencoders | [paper](http://archives.ismir.net/ismir2019/paper/000091.pdf) | [demo](https://ismir19-217.github.io/sup-material/ismir19-217-sup-material.html)
+
+[Yin-Jyun Luo](https://yjlolo.github.io/al-folio/); Kat Agres; Dorien Herremans
+
+> "We disentangle pitch and timbre of musical instrument sounds by learning separate interpretable latent spaces using Gaussian mixture variational autoencoders. The model is verified by controllable sound synthesis and many-to-many timbre transfer."
+
+![F-13](posters/F-13-instrument_GMVAE.png)
+
 ## Session G
 
 ### [G-03] Adaptive Time–Frequency Scattering for Periodic Modulation Recognition in Music Signals | [paper](http://archives.ismir.net/ismir2019/paper/000099.pdf) | [dataset](https://zenodo.org/record/3250223)
@@ -77,6 +114,16 @@ Add it by making a pull request!
 > "Scattering transform provides a versatile and compact representation for analysing playing techniques."
 
 ![G-03 Poster](posters/G-03.png)
+
+
+### [G-16] VirtuosoNet: A Hierarchical RNN-based System for Modeling Expressive Piano Performance  | [paper] (http://archives.ismir.net/ismir2019/paper/000112.pdf) | [code](https://github.com/jdasam/virtuosoNet)
+Dasaem Jeong; Taegyun Kwon; Yoojin Kim; Kyogu Lee; Juhan Nam
+
+> "We present an RNN-based model that reads MusicXML and generates human-like performance MIDI. The model employs a hierarchical approach by using attention network and an independent measure-level estimation module. We share our code and dataset."
+
+![G-16 Poster](posters/G-16-VirtuosoNet.png)
+
+
 
 ## Late-Breaking/Demo
 
