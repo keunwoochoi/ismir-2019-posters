@@ -43,6 +43,14 @@ Add it by making a pull request!
 
 ![A-09 Poster](posters/A-09-20-Years-of-Playlists.png)
 
+
+### [A-13] Conditioned-U-Net: Introducing a Control Mechanism in the U-Net for Multiple Source Separations | [paper](http://archives.ismir.net/ismir2019/paper/000017.pdf) | [code](https://github.com/gabolsgabs/cunet)
+
+[Gabriel Meseguer-Brocal](https://github.com/gabolsgabs/); [Geoffroy Peeters](https://perso.telecom-paristech.fr/gpeeters/)
+> "In this paper, we apply conditioning learning to source separation and introduce a control mechanism to the standard U-Net architecture. The control mechanism allows multiple instrument separations with just one model without losing performance."
+
+![A-09 Poster](posters/A-13-Conditioned-U-Net;-Introducing-a-Control-Mechanism-in-the-U-Net-for-Multiple-Source-Separations.png)
+
 ## Session B
 
 ### [B-02] Deep Unsupervised Drum Transcription | [paper](http://archives.ismir.net/ismir2019/paper/000020.pdf) | [code](https://github.com/keunwoochoi/DrummerNet)
