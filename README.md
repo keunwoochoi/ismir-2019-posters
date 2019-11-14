@@ -149,6 +149,17 @@ Dasaem Jeong; Taegyun Kwon; Yoojin Kim; Kyogu Lee; Juhan Nam
 ![L-10 Poster](posters/L-10-ANOMIC.png)
 
 
+### [L-11] nnAudio: A Pytorch Audio Processing Tool Using 1dconvolution Neural Networks | [paper]() | [code](https://github.com/KinWaiCheuk/nnAudio)
+
+[Kin Wai Cheuk](https://github.com/KinWaiCheuk); [Kat Agres](http://katagres.com/biography); [Dorien Herremans](http://dorienherremans.com/biography)
+> "With the advent of Graphics Processing Units (GPUs),  many computational methods, such as Tensorflow and PyTorch, are now taking advantage of these technologies to dramatically speed up calculations. The number of GPU based processing libraries for signal processing is limited to tools such as tf.signal, torchaudio (PyTorch based), and Kapre (Tensorflow based).
+We propose a PyTorch based neural network audio processing tool called nnAudio. Our library offer GPU-leveraged calculation of linear spectrograms, log spectrograms, Mel Spectrograms (MelSpec), and constant-Q transform (CQT). nnAudio is the only GPU-based library that offers CQT calculation. We record a speed increase of over 100 times when using nnAudio versus traditional signal processing tools"
+
+![L-11 Poster](posters/L-11-nnAudio.png)
+
+
+
+
 ### [L-45] An Opensource Web-based Pattern Annotation Framework - PAF | [paper](http://archives.ismir.net/ismir2019/latebreaking/000045.pdf) | [code](https://bitbucket.org/ul-fri-lgm/patternannotationframework/src)
 
 [Matevž Pesek](); [Darian Tomašević](); [Iris Yuping Ren](http://irisryp.me/); [Matija Marolt]()
