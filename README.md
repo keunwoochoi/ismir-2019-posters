@@ -1,8 +1,9 @@
 # ismir-2019-posters
 
 ## How to add your poster
-Add it by making a pull request!
+tl;dr - Make a PR with `poster.png` < 1.5MB. 
 
+Details:
 - fork this repo and clone it to your local computer
 - update the repo with your poster and its description
   - git add your poster image to `posters/` folder
@@ -89,6 +90,11 @@ Add it by making a pull request!
 
 ## Session E
 
+### [E-05] The Harmonix Set: Beats, Downbeats, and Functional Segment Annotations of Western Popular Music, Nieto, O., McCallum, M., Davies., M., Robertson, A., Stark, A., Egozy, E. | [poster](posters/E-05-TheHarmonixSet.pdf) | [paper](http://archives.ismir.net/ismir2019/paper/000068.pdf) | [code](https://github.com/urinieto/harmonixset)
+> "Human annotated dataset containing beats, downbeats, and structural segmentation for over 900 pop tracks."
+
+![E-05 Poster](posters/E-05-TheHarmonixSet.png)
+
 ### [E-06] FMP Notebooks: Educational Material for Teaching and Learning Fundamentals of Music Processing | [paper](http://archives.ismir.net/ismir2019/paper/000069.pdf) | [web](https://www.audiolabs-erlangen.de/FMP)
 
 [Meinard Müller](https://www.audiolabs-erlangen.de/fau/professor/mueller); [Frank Zalkow](https://www.audiolabs-erlangen.de/fau/assistant/zalkow)
@@ -116,7 +122,7 @@ Add it by making a pull request!
 ![G-03 Poster](posters/G-03.png)
 
 
-### [G-16] VirtuosoNet: A Hierarchical RNN-based System for Modeling Expressive Piano Performance  | [paper] (http://archives.ismir.net/ismir2019/paper/000112.pdf) | [code](https://github.com/jdasam/virtuosoNet)
+### [G-16] VirtuosoNet: A Hierarchical RNN-based System for Modeling Expressive Piano Performance  | [paper](http://archives.ismir.net/ismir2019/paper/000112.pdf) | [code](https://github.com/jdasam/virtuosoNet)
 Dasaem Jeong; Taegyun Kwon; Yoojin Kim; Kyogu Lee; Juhan Nam
 
 > "We present an RNN-based model that reads MusicXML and generates human-like performance MIDI. The model employs a hierarchical approach by using attention network and an independent measure-level estimation module. We share our code and dataset."
