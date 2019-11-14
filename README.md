@@ -149,7 +149,7 @@ Dasaem Jeong; Taegyun Kwon; Yoojin Kim; Kyogu Lee; Juhan Nam
 ![L-10 Poster](posters/L-10-ANOMIC.png)
 
 
-### [L-11] Creating a Tool for Faciltiating and Researching Human Annotation of Musical Patterns | [paper](http://archives.ismir.net/ismir2019/latebreaking/000010.pdf) | [code](https://github.com/StephanWells/ANOMIC)
+### [L-11] Creating a Tool for Faciltiating and Researching Human Annotation of Musical Patterns | [paper]() | [code](https://github.com/KinWaiCheuk/nnAudio)
 
 [Kin Wai Cheuk](https://github.com/KinWaiCheuk); [Kat Agres](http://katagres.com/biography); [Dorien Herremans](http://dorienherremans.com/biography)
 > "With the advent of Graphics Processing Units (GPUs),  many computational methods, such as Tensorflow and PyTorch, are now taking advantage of these technologies to dramatically speed up calculations. The number of GPU based processing libraries for signal processing is limited to tools such as tf.signal, torchaudio (PyTorch based), and Kapre (Tensorflow based).
