@@ -1,7 +1,7 @@
 # ismir-2019-posters
 
 ## How to add your poster
-tl;dr - Make a PR with `poster.png` < 1.5MB. 
+tl;dr - Make a PR with `poster.png` < 1.5MB.
 
 Details:
 - fork this repo and clone it to your local computer
@@ -122,6 +122,13 @@ Details:
 ![G-03 Poster](posters/G-03.png)
 
 
+### [G-13] Adaptive Time–Frequency Scattering for Periodic Modulation Recognition in Music Signals | [paper](http://archives.ismir.net/ismir2019/paper/000109.pdf) | [code/examples](https://livingthing.danmackinlay.name/mosaicing_omp_ismir_2019/)
+
+[Dan MacKinlay](https://danmackinlay.name/); Zdravko Botev
+> “We apply sparse dictionary decomposition twice to autocorrelograms of signals, to get a novel analysis of and method for mosaicing music style transfer, which has the novel feature of handling time-scaling of the source audio naturally.”
+
+![G-13 Poster](posters/G-13-Autocorrelogram_mosaicing_via_OMP.png)
+
 ### [G-16] VirtuosoNet: A Hierarchical RNN-based System for Modeling Expressive Piano Performance  | [paper](http://archives.ismir.net/ismir2019/paper/000112.pdf) | [code](https://github.com/jdasam/virtuosoNet)
 Dasaem Jeong; Taegyun Kwon; Yoojin Kim; Kyogu Lee; Juhan Nam
 
@@ -162,8 +169,6 @@ Dasaem Jeong; Taegyun Kwon; Yoojin Kim; Kyogu Lee; Juhan Nam
 We propose a PyTorch based neural network audio processing tool called nnAudio. Our library offer GPU-leveraged calculation of linear spectrograms, log spectrograms, Mel Spectrograms (MelSpec), and constant-Q transform (CQT). nnAudio is the only GPU-based library that offers CQT calculation. We record a speed increase of over 100 times when using nnAudio versus traditional signal processing tools"
 
 ![L-11 Poster](posters/L-11-nnAudio.png)
-
-
 
 
 ### [L-45] An Opensource Web-based Pattern Annotation Framework - PAF | [paper](http://archives.ismir.net/ismir2019/latebreaking/000045.pdf) | [code](https://bitbucket.org/ul-fri-lgm/patternannotationframework/src)
