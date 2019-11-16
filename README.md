@@ -77,7 +77,13 @@ Details:
 
 
 ## Session C
+### [C-07] Learning to Traverse Latent Spaces for Musical Score Inpainting | [paper](http://archives.ismir.net/ismir2019/paper/000040.pdf) | [code](https://github.com/ashispati/InpaintNet)  | [audio-examples](https://ashispati.github.io/inpaintnet/)
 
+[Ashis Pati](https://ashispati.github.io), [Alexander Lerch](http://www.alexanderlerch.com), [Gaëtan Hadjeres](https://csl.sony.fr/team/gaetan-hadjeres/)
+
+> "Recurrent Neural Networks can be trained using latent embeddings of a Variational Auto-Encoder-based model to to perform interactive music generation tasks such as inpainting."
+
+![C-07 Poster](posters/C-07-Latent-Space-Traversal.png)
 
 ## Session D
 
