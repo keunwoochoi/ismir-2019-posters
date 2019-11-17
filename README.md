@@ -77,6 +77,15 @@ Details:
 
 
 ## Session C
+
+### [C-01] Learning a Joint Embedding Space of Monophonic and Mixed Music Signals for Singing Voice | [paper](http://archives.ismir.net/ismir2019/paper/000034.pdf) | [code](http://github.com/kyungyunlee/mono2mixed-singer) | [mashup example](http://kyungyunlee.github.io/archives/ISMIR2019-Mono2Mixed) 
+    
+[Kyungyun Lee](http://kyungyunlee.github.io); [Juhan Nam](http://mac.kaist.ac.kr/~juhan/)   
+
+> "The paper introduces a new method of obtaining a consistent singing voice representation from both monophonic and mixed music signals. Also, it presents a simple music mashup pipeline to create a large synthetic singer dataset"
+    
+![C-01 Poster](posters/C-01-Learning-a-Joint-Embedding-Space.png)
+
 ### [C-07] Learning to Traverse Latent Spaces for Musical Score Inpainting | [paper](http://archives.ismir.net/ismir2019/paper/000040.pdf) | [code](https://github.com/ashispati/InpaintNet)  | [audio-examples](https://ashispati.github.io/inpaintnet/)
 
 [Ashis Pati](https://ashispati.github.io), [Alexander Lerch](http://www.alexanderlerch.com), [Gaëtan Hadjeres](https://csl.sony.fr/team/gaetan-hadjeres/)
@@ -84,7 +93,6 @@ Details:
 > "Recurrent Neural Networks can be trained using latent embeddings of a Variational Auto-Encoder-based model to to perform interactive music generation tasks such as inpainting."
 
 ![C-07 Poster](posters/C-07-Latent-Space-Traversal.png)
-
 ## Session D
 
 ### [D-04] A Dataset of Rhytmic Pattern Reproductions and Baseline Automatic Assessment System | [paper](http://archives.ismir.net/ismir2019/paper/000052.pdf) | [code](https://github.com/MTG/mast-rhythm-analysis) | [MAST rhythm dataset](https://zenodo.org/record/2620357) | [re-annotated dataset](https://zenodo.org/record/2619499)
