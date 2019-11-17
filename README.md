@@ -176,9 +176,9 @@ We propose a PyTorch based neural network audio processing tool called nnAudio. 
 
 ![L-11 Poster](posters/L-11-nnAudio.png)
 
-### [L-35] Automated Time-Frequency Domain Audio Crossfades Using Graph Cuts | [paper](http://archives.ismir.net/ismir2019/latebreaking/000035.pdf) | [code](https://github.com/Stack-Attack/time-freq-cut) | ['DJ' Example](https://soundcloud.com/kyle-robinson-13/tracks), ['Standard' Example](https://soundcloud.com/kyle-robinson-13/augmented-recon-acoustic)
+### [L-35] Automated Time-Frequency Domain Audio Crossfades Using Graph Cuts | [paper](http://archives.ismir.net/ismir2019/latebreaking/000035.pdf) | [code](https://github.com/Stack-Attack/time-freq-cut) | ['DJ' Example](https://soundcloud.com/kyle-robinson-13/augmented-recon-dj-4), ['Standard' Example](https://soundcloud.com/kyle-robinson-13/augmented-recon-acoustic)
 
-[Kyle Robinson](); [Dan Brown](https://cs.uwaterloo.ca/~browndg/)
+Kyle Robinson; [Dan Brown](https://cs.uwaterloo.ca/~browndg/)
 
 > "We present the first implementation of a new method to automatically transition between songs by finding an optimal seam in the time-frequency spectrum."
 
