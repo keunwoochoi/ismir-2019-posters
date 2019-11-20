@@ -136,6 +136,13 @@ Details:
 ![G-03 Poster](posters/G-03.png)
 
 
+### [G-08] GENERATING STRUCTURED DRUM PATTERN USING VARIATIONAL AUTOENCODER AND SELF-SIMILARITY MATRIX | [paper](http://archives.ismir.net/ismir2019/paper/000104.pdf) | [code](https://github.com/Sma1033/drum_generation_with_ssm)
+
+> "We proposed a model that incorporates long term structure into the music generation process using VAE amd SSM. Subjective evaluation results suggest its effectiveness in generating transitions at structural boundaries."
+
+![G-08 Poster](posters/G-08-Generating-Sturctured-Drum-Pattern.png)
+
+
 ### [G-13] Adaptive Time–Frequency Scattering for Periodic Modulation Recognition in Music Signals | [paper](http://archives.ismir.net/ismir2019/paper/000109.pdf) | [code/examples](https://livingthing.danmackinlay.name/mosaicing_omp_ismir_2019/)
 
 [Dan MacKinlay](https://danmackinlay.name/); Zdravko Botev
