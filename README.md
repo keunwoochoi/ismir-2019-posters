@@ -95,6 +95,13 @@ Details:
 ![C-07 Poster](posters/C-07-Latent-Space-Traversal.png)
 ## Session D
 
+
+### [D-02] A Cross-Scape Plot Representation for Visualizing Symbolic Melodic Similarity | [paper](http://archives.ismir.net/ismir2019/paper/000050.pdf) | [code](https://github.com/saebyulpark/cross_scapeplot_visualization)
+Saebyul Park; Taegyun Kwon; Jongpil Lee; Jeounghoon Kim; Juhan Nam
+> "We propose a cross-scape plot representation to visualize multi-scaled melody similarity between two symbolic music. We evaluate its effectiveness on examples from folk music collections with similarity-based categories and plagiarism cases."
+![D-02 Poster](posters/D-02_Cross_scape_plot.png)
+
+
 ### [D-04] A Dataset of Rhytmic Pattern Reproductions and Baseline Automatic Assessment System | [paper](http://archives.ismir.net/ismir2019/paper/000052.pdf) | [code](https://github.com/MTG/mast-rhythm-analysis) | [MAST rhythm dataset](https://zenodo.org/record/2620357) | [re-annotated dataset](https://zenodo.org/record/2619499)
 
 [Felipe Falcão](https://www.linkedin.com/in/felipe29vieira), Baris Bozkurt, Xavier Serra, Nazareno Andrade, Ozan Baysal
