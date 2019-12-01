@@ -149,6 +149,12 @@ Saebyul Park; Taegyun Kwon; Jongpil Lee; Jeounghoon Kim; Juhan Nam
 
 ![G-08 Poster](posters/G-08-Generating-Sturctured-Drum-Pattern.png)
 
+### [G-12] Audio-query Based Music Source Separation | [paper](http://archives.ismir.net/ismir2019/paper/000108.pdf)
+
+Jie Hwan Lee(*); Hyeong-Seok Choi(*); Kyogu Lee (*: Equal contribution)
+> “We propose a network for audio query-based music source separation that can explicitly encode the source information from a query signal regardless of the number and/or kind of target signals. The proposed method consists of a Query-net and a Separator: given a query and a mixture, the Query-net encodes the query into the latent space, and the Separator estimates masks conditioned by the latent vector, which is then applied to the mixture for separation.”
+
+![G-12 Poster](posters/G-12-AudioQueryBasedMusicSourceSeparation.png)
 
 ### [G-13] Adaptive Time–Frequency Scattering for Periodic Modulation Recognition in Music Signals | [paper](http://archives.ismir.net/ismir2019/paper/000109.pdf) | [code/examples](https://livingthing.danmackinlay.name/mosaicing_omp_ismir_2019/)
 
