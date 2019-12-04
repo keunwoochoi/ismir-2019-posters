@@ -142,6 +142,12 @@ Saebyul Park; Taegyun Kwon; Jongpil Lee; Jeounghoon Kim; Juhan Nam
 
 ![G-03 Poster](posters/G-03.png)
 
+### [G-05] Unmixer: An Interface for Extracting and Remixing Loops | [paper](http://archives.ismir.net/ismir2019/paper/000101.pdf) | [website](https://unmixer.ongaaccel.jp/) | [poster](http://jblsmith.github.io/documents/smith2019-ismir-unmixer_interface-poster.pdf)
+
+[Jordan B. L. Smith](http://jblsmith.github.io/); Yuta Kawasaki; Masataka Goto
+> "Unmixer is a web interface where users can upload music, extract loops, remix them, and mash-up loops from different songs. To extract loops with source separation, we use a nonnegative tensor factorization method improved with a sparsity constraint."
+
+![G-05 Poster](posters/G-05-Unmixer-an-interface-for-extracting-and-remixing-loops.png)
 
 ### [G-08] GENERATING STRUCTURED DRUM PATTERN USING VARIATIONAL AUTOENCODER AND SELF-SIMILARITY MATRIX | [paper](http://archives.ismir.net/ismir2019/paper/000104.pdf) | [code](https://github.com/Sma1033/drum_generation_with_ssm)
 
