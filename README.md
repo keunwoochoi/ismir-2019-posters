@@ -111,6 +111,13 @@ Saebyul Park; Taegyun Kwon; Jongpil Lee; Jeounghoon Kim; Juhan Nam
 
 ## Session E
 
+### [E-04] A Diplomatic Edition of Il Lauro Secco: Ground Truth for OMR of White Mensural Notation| [paper](http://archives.ismir.net/ismir2019/paper/000067.pdf) | [dataset](https://github.com/SEILSdataset/SEILSdataset)
+
+Emilia Parada-Cabaleiro, Anton Batliner, Björn Schuller
+> "We present a symbolic representation in mensural notation of the anthology Il Lauro Secco. For musicological analysis we encoded the repertoire in **mens and MEI; to support OMR research we present ground truth in agnostic and semantic formats."
+
+![E-04 Poster](posters/E-04-SEILS.png)
+
 ### [E-05] The Harmonix Set: Beats, Downbeats, and Functional Segment Annotations of Western Popular Music, Nieto, O., McCallum, M., Davies., M., Robertson, A., Stark, A., Egozy, E. | [poster](posters/E-05-TheHarmonixSet.pdf) | [paper](http://archives.ismir.net/ismir2019/paper/000068.pdf) | [code](https://github.com/urinieto/harmonixset)
 > "Human annotated dataset containing beats, downbeats, and structural segmentation for over 900 pop tracks."
 
