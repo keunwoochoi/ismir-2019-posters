@@ -86,6 +86,15 @@ Details:
     
 ![C-01 Poster](posters/C-01-Learning-a-Joint-Embedding-Space.png)
 
+### [C-04] Hit Song Prediction: Leveraging Low- and High-Level Audio Features | [paper](https://doi.org/10.5281/zenodo.3258042) | [code](https://github.com/dbis-uibk/hit-prediction-code/) | [dataset](https://zenodo.org/record/3258042#.Xe5RI3VKhhE)
+
+[Eva Zangerle](https://evazangerle.at); Michael Vötter; Ramona Huber; [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/)
+
+> "We show that for predicting the potential success of a song, both low- and high-level audio features are important. We use a deep and wide neural network to model these features and perform a regression task on the track’s rank in the charts."
+
+![C-04 Poster](posters/C-04-HitSongPrediction-Leveraging-Low-and-High-Level-Audio-Features.png)
+
+
 ### [C-07] Learning to Traverse Latent Spaces for Musical Score Inpainting | [paper](http://archives.ismir.net/ismir2019/paper/000040.pdf) | [code](https://github.com/ashispati/InpaintNet)  | [audio-examples](https://ashispati.github.io/inpaintnet/)
 
 [Ashis Pati](https://ashispati.github.io), [Alexander Lerch](http://www.alexanderlerch.com), [Gaëtan Hadjeres](https://csl.sony.fr/team/gaetan-hadjeres/)
