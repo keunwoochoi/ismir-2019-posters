@@ -92,7 +92,7 @@ Details:
 
 > "We show that for predicting the potential success of a song, both low- and high-level audio features are important. We use a deep and wide neural network to model these features and perform a regression task on the track’s rank in the charts."
 
-![C-04 Poster](posters/C-04-HitSongPrediction-Leveraging-Low-and-High-Level-Audio-Features.pdf)
+![C-04 Poster](posters/C-04-HitSongPrediction-Leveraging-Low-and-High-Level-Audio-Features.png)
 
 
 ### [C-07] Learning to Traverse Latent Spaces for Musical Score Inpainting | [paper](http://archives.ismir.net/ismir2019/paper/000040.pdf) | [code](https://github.com/ashispati/InpaintNet)  | [audio-examples](https://ashispati.github.io/inpaintnet/)
