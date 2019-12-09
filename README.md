@@ -109,6 +109,22 @@ Saebyul Park; Taegyun Kwon; Jongpil Lee; Jeounghoon Kim; Juhan Nam
 
 ![D-04 Poster](posters/D-04-A-Dataset-of-Rhytmic-Pattern-Reproductions-and-Baseline-Automatic-Assessment-System.png)
 
+### [D-06] Blending Acoustic and Language Model Predictions for Automatic Music Transcription | [paper](http://archives.ismir.net/ismir2019/paper/000054.pdf) | [code](https://github.com/adrienycart/MLM_decoding/tree/ismir2019) | [supplementary-material](http://c4dm.eecs.qmul.ac.uk/ycart/ismir19.html) 
+
+Adrien Ycart, Andrew McLeod, Emmanouil Benetos, Kazuyoshi Yoshii
+
+> "Dynamically integrating predictions from an acoustic and a language model with a blending model improves automatic music transcription performance on the MAPS dataset. Results are further improved by operating on 16th-note timesteps rather than 40ms."
+
+![D-06 Poster](posters/[D-06].png)
+
+### [D-08] A Comparative Study of Neural Models for Polyphonic Music Sequence Transduction | [paper](http://archives.ismir.net/ismir2019/paper/000056.pdf)
+
+Adrien Ycart, Daniel Stoller, Emmanouil Benetos
+
+> "A systematic study using various neural models and automatic music transcription systems shows that a cross-entropy-loss CNN improves transduction performance, while an LSTM does not. Using an adversarial set-up also does not yield improvement."
+
+![D-08 Poster](posters/[D-08].png)
+
 ## Session E
 
 ### [E-04] A Diplomatic Edition of Il Lauro Secco: Ground Truth for OMR of White Mensural Notation | [paper](http://archives.ismir.net/ismir2019/paper/000067.pdf) | [dataset](https://github.com/SEILSdataset/SEILSdataset)
