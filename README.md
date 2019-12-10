@@ -115,7 +115,7 @@ Adrien Ycart, Andrew McLeod, Emmanouil Benetos, Kazuyoshi Yoshii
 
 > "Dynamically integrating predictions from an acoustic and a language model with a blending model improves automatic music transcription performance on the MAPS dataset. Results are further improved by operating on 16th-note timesteps rather than 40ms."
 
-![D-06 Poster](posters/[D-06].png)
+![D-06 Poster](posters/D-06-Blending_Acoustic_and_Language_Model_Predictions_for_Automatic_Music_Transcription.png)
 
 ### [D-08] A Comparative Study of Neural Models for Polyphonic Music Sequence Transduction | [paper](http://archives.ismir.net/ismir2019/paper/000056.pdf)
 
@@ -123,7 +123,7 @@ Adrien Ycart, Daniel Stoller, Emmanouil Benetos
 
 > "A systematic study using various neural models and automatic music transcription systems shows that a cross-entropy-loss CNN improves transduction performance, while an LSTM does not. Using an adversarial set-up also does not yield improvement."
 
-![D-08 Poster](posters/[D-08].png)
+![D-08 Poster](posters/D-08-A_Comparative_Study_of_Neural_Models_For_Polyphonic_Music_Transduction.png)
 
 ## Session E
 
