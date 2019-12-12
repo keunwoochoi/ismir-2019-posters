@@ -102,6 +102,16 @@ Details:
 > "Recurrent Neural Networks can be trained using latent embeddings of a Variational Auto-Encoder-based model to to perform interactive music generation tasks such as inpainting."
 
 ![C-07 Poster](posters/C-07-Latent-Space-Traversal.png)
+
+### [C-09] The AcousticBrainz Genre Dataset: Multi-Source, Multi-Level, Multi-Label, and Large-Scale | [paper](http://archives.ismir.net/ismir2019/paper/000042.pdf) | [dataset](https://mtg.github.io/acousticbrainz-genre-dataset/)
+
+[Dmitry Bogdanov](https://dbogdanov.github.io/), [Alastair Porter](https://www.upf.edu/web/alastair-porter), [Hendrik Schreiber](http://www.tagtraum.com/), [Julián Urbano](https://julian-urbano.info/), [Sergio Oramas](http://sergiooramas.com/)
+
+> "The AcousticBrainz Genre Dataset allows researchers to explore how the same music pieces are annotated differently by different communities following their own genre taxonomies, and how these differences can be addressed by genre recognition systems."
+
+![C-09 Poster](posters/C-09-AcousticBrainz-Genre-Dataset.png)
+
+
 ## Session D
 
 
