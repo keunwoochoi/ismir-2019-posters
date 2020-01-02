@@ -252,6 +252,13 @@ We propose a PyTorch based neural network audio processing tool called nnAudio. 
 
 ![L-11 Poster](posters/L-11-nnAudio.png)
 
+### [L-12] Generative Audio Synthesis with a Parametric Model | [paper](https://arxiv.org/abs/1911.08335) | [Audio Examples](https://www.ee.iitb.ac.in/student/~krishnasubramani/ismir_notebook.html)
+
+[Krishna Subramani](https://www.ee.iitb.ac.in/student/~krishnasubramani/); Alexandre D'Hooge; [Preeti Rao](https://www.ee.iitb.ac.in/wiki/faculty/prao)
+> Propose a parametric representation for audio corresponding more directly to its musical attributes such as pitch, dynamics and timbre. For more control over generation, we also propose the use of a conditional variational autoencoder which conditions the timbre on pitch.
+
+![L-12 Poster](posters/L-12-GenSynth.png)
+
 ### [L-35] Automated Time-Frequency Domain Audio Crossfades Using Graph Cuts | [paper](http://archives.ismir.net/ismir2019/latebreaking/000035.pdf) | [code](https://github.com/Stack-Attack/time-freq-cut) | ['DJ' Example](https://soundcloud.com/kyle-robinson-13/augmented-recon-dj-4), ['Standard' Example](https://soundcloud.com/kyle-robinson-13/augmented-recon-acoustic)
 
 Kyle Robinson; [Dan Brown](https://cs.uwaterloo.ca/~browndg/)
