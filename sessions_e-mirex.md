@@ -5,7 +5,7 @@
 [Session E](#session-e),
 [Session F](#session-f),
 [Session G](#session-g),
-[Late-Breaking/Demo](#late-breakingdemo)
+[Late-Breaking/Demo](#late-breakingdemo),
 [MIREX](#mirex)
 
 ## Session E
