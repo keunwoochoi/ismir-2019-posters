@@ -2,11 +2,11 @@
 
 ## Sessions
 
-[Session E](https://github.com/keunwoochoi/ismir-2019-posters/sessions_e-mirex.md#session-e),
-[Session F](https://github.com/keunwoochoi/ismir-2019-posters/sessions_e-mirex.md#session-f),
-[Session G](https://github.com/keunwoochoi/ismir-2019-posters/sessions_e-mirex.md#session-g),
-[Late-Breaking/Demo](https://github.com/keunwoochoi/ismir-2019-posters/sessions_e-mirex.md#late-breakingdemo)
-[MIREX](https://github.com/keunwoochoi/ismir-2019-posters/sessions_e-mirex.md#mirex)
+[Session E](#session-e),
+[Session F](#session-f),
+[Session G](#session-g),
+[Late-Breaking/Demo](#late-breakingdemo)
+[MIREX](#mirex)
 
 ## Session E
 

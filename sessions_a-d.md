@@ -1,10 +1,10 @@
 # Online session 1/2 (Sessions A, B, C, D)
 
 ## Sessions
-[Session A](https://github.com/keunwoochoi/ismir-2019-posters/sessions_a-d.md#session-a),
-[Session B](https://github.com/keunwoochoi/ismir-2019-posters/sessions_a-d.md#session-b),
-[Session C](https://github.com/keunwoochoi/ismir-2019-posters/sessions_a-d.md#session-c),
-[Session D](https://github.com/keunwoochoi/ismir-2019-posters/sessions_a-d.md#session-d),
+[Session A](#session-a),
+[Session B](#session-b),
+[Session C](#session-c),
+[Session D](#session-d),
 
 ## Session E
 
