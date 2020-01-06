@@ -147,3 +147,10 @@ Kyle Robinson; [Dan Brown](https://cs.uwaterloo.ca/~browndg/)
 
 
 ## MIREX
+
+### [M-01] Melody Extraction using a Harmonic Convolutional Neural Network | [paper](https://www.music-ir.org/mirex/abstracts/2019/BH1.pdf) | [code](https://github.com/kukas/music-transcription)
+
+[Jiří Balhar](https://jirkabalhar.cz/); [Jan Hajič jr.](https://ufal.mff.cuni.cz/jan-hajic-jr)
+> "During the last years data-driven methods based on deep learning started to outperform methods traditionally used in the field. In this paper we continue in these efforts and propose a new method for melody extraction. An architecture called Harmonic Convolutional Neural Network, based on a modification of convolutional neural networks to better capture harmonically related information in an input spectrogram with logarithmic frequency axis, was able to achieve state-of-the-art performance on most publicly available melody datasets."
+
+![M-01 Poster](posters/M-01-Melody_Extraction_using_a_Harmonic_Convolutional_Neural_Network.png)
